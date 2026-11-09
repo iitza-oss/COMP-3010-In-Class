@@ -14,6 +14,7 @@ int main()
     std::cout << "Hello World!\n";
     std::cout << "Hello World!\n";
     std::cout << "Hello World!\n";
+    std::cout << "Submission by Isaac Itza - COMP-3010" << std::endl;
     //add a comment to explain stuff
 }
 
